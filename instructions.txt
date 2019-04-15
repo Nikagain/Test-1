@@ -1,0 +1,10 @@
+This file consists of instructions on how to use git commands.
+
+1) Create branch on gui and through command line - use git checkout
+2) Clone to local repo
+3) Commit
+4) Push
+5) Pull requests
+6) Merge to master branch
+7) other misc commands
+
