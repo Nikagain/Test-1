@@ -8,3 +8,5 @@ This file consists of instructions on how to use git commands.
 6) Merge to master branch
 7) other misc commands
 
+Will add more details later.
+
